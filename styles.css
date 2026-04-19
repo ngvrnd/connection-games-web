@@ -80,6 +80,11 @@ li {
   color: var(--muted);
 }
 
+.note {
+  margin-top: 18px;
+  color: var(--muted);
+}
+
 .actions {
   display: flex;
   flex-wrap: wrap;
